@@ -24,3 +24,7 @@ tensorflow-estimator
 tensorflow_hub
 widgetsnbextension
 opencv-python
+bert-extractive-summarizer
+sentence-transformers
+spacy
+transformers
