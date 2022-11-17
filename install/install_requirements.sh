@@ -46,11 +46,11 @@ function installWithPip {
   echo "Install with pip"
 
   echo "Prepare pip"
-  python -m pip install --upgrade pip    
-  python -m pip install setuptools
+  python3 -m pip install --upgrade pip    
+  python3 -m pip install setuptools
 
   echo "Install requierments with pip"
-  python -m pip install --no-cache-dir -r install/pip/requirements.txt
+  python3 -m pip install --no-cache-dir -r install/pip/requirements.txt
 
 }
 
