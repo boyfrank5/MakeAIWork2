@@ -35,7 +35,6 @@ function installWithConda {
       selenium \
       statsmodels \
       sympy \
-      tensorflow \
       tensorflow-gpu 
   fi
 

@@ -18,6 +18,7 @@ seaborn
 SimPyLC==3.10.0
 sklearn
 tensorboard-plugin-wit 
+tensorflow==2.9
 tensorflow_addons 
 tensorflow_datasets 
 tensorflow-estimator 
