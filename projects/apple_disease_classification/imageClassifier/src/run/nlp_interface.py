@@ -3,10 +3,10 @@ from sentence_transformers import SentenceTransformer, util
 
 # Parameters: (nog te koppelen aan 'batch_classifier')
 batchOneAql = 'class1'
-batchOneNormal = 80
+batchOneNormal = 78
 batchOneRot = 0
-batchOneScab = 0
-batchOneBlotch = 0
+batchOneScab = 1
+batchOneBlotch = 1
 
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
